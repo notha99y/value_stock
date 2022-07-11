@@ -1,7 +1,6 @@
 # Value a Stock
 
 ## Acronyms
----
 - P/E : Price to Equity
 - PEG : Price to Equaity Growth
 - EPS : Earnings Per Share
@@ -10,8 +9,6 @@
 - ROE : Return on Equity
 
 ## Formulas
----
-
 - $\text{P/E Ratio} = \frac{\text{Market value per share}}{\text{Earnings per share}}$
 - $\text{PEG Ratio} = \frac{\text{PEG}}{\text{EPS Growth}}$
 - $\text{D/E} = \frac{\text{Short term debt} + \text{Long term debt} + \text{Other fixed payment}}{\text{Shareholder's Equity}}$
