@@ -1,4 +1,4 @@
-# Value a Stock
+# Value a Stock 💸
 
 ## Acronyms
 - P/E : Price to Equity
@@ -14,3 +14,6 @@
 - $\text{D/E} = \frac{\text{Short term debt} + \text{Long term debt} + \text{Other fixed payment}}{\text{Shareholder's Equity}}$
 - $\text{FCF} = \text{Cash from operations} - \text{Capital Expenditures}$
 - $\text{ROE} = \frac{\text{Net Income}}{\text{Average Shareholders' Equity}}$
+
+## Most Important Thing to Remember
+- EBITA is a shit metric
