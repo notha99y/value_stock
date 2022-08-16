@@ -1,4 +1,14 @@
 # Value a Stock 💸
+## Important Documents
+### 1. Income Statement
+- a.k.a. profit and loss statement or the statement of revenue and expense, the income statement primarily focuses on the company's revenues and expenses during a particular period
+### 1. Balance Sheet
+- Reports a company's assets, liabilities, and shareholder equity at a specific point in time
+- Balance sheets provide the basis for computing rates of return for investors and evaluating a company's capital structure
+- Balance sheet provides a snapshot of what a company owns and owes, as well as the amount invested by shareholders
+### 1. Statement of Cashflows
+- A financial statement that provides aggregate data regarding all cash inflows a company receives from its ongoing operations and external investment sources
+- It also includes all cash outflows that pay for business activities and investments during a given period
 
 ## Acronyms
 - P/E : Price to Equity
